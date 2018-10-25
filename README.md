@@ -1,7 +1,7 @@
 # Tick Tack Toe sample app
 
 Simple C# application letting two players play against each other. No fancy UI or network support.
-Application draws the board and displays the game status. 'Reset game' button lets the users to play once again.
+Application draws the board and displays the game status. 'Reset game' button lets the users play once again.
 
 The choice for the implementation is that the game engine is a .NET Standard 2.0 library with a simple Windows Forms application as UI.
 
